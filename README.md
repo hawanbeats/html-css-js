@@ -8,3 +8,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/analog%20clock%20shape%20loading/" target="_blank">analog clock shape loading</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/animate%20login%20and%20sign%20up/" target="_blank">animate login and sign up</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/border%20animation%20menu%20inspiration/" target="_blank">border animation menu inspiration</a>
