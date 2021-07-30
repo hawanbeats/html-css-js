@@ -10,3 +10,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/animate%20login%20and%20sign%20up/" target="_blank">animate login and sign up</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/border%20animation%20menu%20inspiration/" target="_blank">border animation menu inspiration</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/bounce%20y%20loading%20animation/" target="_blank">bounce y loading animation</a>
