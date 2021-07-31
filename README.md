@@ -26,3 +26,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/card%20animated/">card animated</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/coin%20flip%20donate%20button/">coin flip donate button</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/confetti%20button/">confetti button</a>
