@@ -38,3 +38,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/css%20custom%20checkbox%20list%20design/">css custom checkbox list design</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/customize%20scrollbar/">customize scrollbar</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/delivery%20truck%20on%20road%20button/">delivery truck on road button</a>
