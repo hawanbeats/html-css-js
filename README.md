@@ -28,3 +28,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/coin%20flip%20donate%20button/">coin flip donate button</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/confetti%20button/">confetti button</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/creative%20page%20scroll%20progress%20indicator%20with%20mouse%20follow/">creative page scroll progress indicator with mouse follow</a>
