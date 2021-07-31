@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+body, html {
+  height: 100%;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #333333;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.container {
+  width: auto;
+  margin: auto;
+}
+
+a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.btn {
+  position: relative;
+  letter-spacing: 0.25em;
+  margin: 0 auto;
+  padding: 1rem 2.5rem;
+  background: transparent;
+  outline: none;
+  font-size: 28px;
+  color: #333333;
+}
+.btn::after, .btn::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  transform: skewX(30deg);
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  z-index: -2;
+}
+.btn::before {
+  background-color: #ffff00;
+  top: -1rem;
+  left: 0rem;
+}
+.btn::after {
+  background-color: #8a19ff;
+  top: 1rem;
+  left: 8rem;
+}
+.btn:hover::before, .btn:hover::after {
+  top: 0;
+  transform: skewx(0deg);
+}
+.btn:hover::after {
+  left: 0rem;
+}
+.btn:hover::before {
+  left: 8.75rem;
+}
