@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e2e1e0;
+  font-family: Verdana, sans-serif;
+}
+
+#progress-bar {
+  width: 0%;
+  height: 3px;
+  position: fixed;
+  top: 0;
+  background: #00F260;
+  background: -webkit-linear-gradient(to left, #0575E6, #00F260);
+  background: linear-gradient(to left, #0575E6, #00F260);
+}
+
+h1 {
+  margin: 3rem;
+}
+
+section {
+  background-color: white;
+  width: 60%;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 5px;
+  box-shadow: 0px 4px 10px 1px rgba(0, 0, 0, 0.12);
+}
+
+footer {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+footer>p {
+  padding: 2rem;
+  font-weight: lighter;
+  color: rgb(99, 99, 99);
+  font-size: 14px;
+}
