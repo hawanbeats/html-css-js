@@ -96,3 +96,5 @@
 48---><a href="https://hawanbeats.github.io/html-css-js/simple%20input%20text%20box/">simple input text box</a>
 <br>
 49---><a href="https://hawanbeats.github.io/html-css-js/simple%20login%20form%20gradient%20background/">simple login form gradient background</a>
+<br>
+50---><a href="https://hawanbeats.github.io/html-css-js/style%20lists%20with%20css%20hover%20effect/">style lists with css hover effect</a>
