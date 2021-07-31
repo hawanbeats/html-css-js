@@ -114,3 +114,5 @@
 57---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
 <br>
 58---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hocer effect</a>
+<br>
+59---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
