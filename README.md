@@ -40,3 +40,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/customize%20scrollbar/">customize scrollbar</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/delivery%20truck%20on%20road%20button/">delivery truck on road button</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/detached%20diamond%20loading%20animation/">detached diamond loading animation</a>
