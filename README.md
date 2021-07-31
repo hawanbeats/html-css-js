@@ -105,18 +105,20 @@
 <br> 
 53---><a href="https://hawanbeats.github.io/html-css-js/subscription%20button%20with%20regex/">subscription button with regex</a>
 <br>
-54---><a href="https://hawanbeats.github.io/html-css-js/t%20shirt%20cannon%20button/">t shirt cannon button</a>
+54---><a href="https://hawanbeats.github.io/html-css-js/svg%20loading%20icons/">svg loading icons</a>
 <br>
-55---><a href="https://hawanbeats.github.io/html-css-js/thank%20you%20card/">thank you card</a>
+55---><a href="https://hawanbeats.github.io/html-css-js/t%20shirt%20cannon%20button/">t shirt cannon button</a>
 <br>
-56---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
+56---><a href="https://hawanbeats.github.io/html-css-js/thank%20you%20card/">thank you card</a>
 <br>
-57---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
+57---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
 <br>
-58---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
+58---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
 <br>
-59---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hocer effect</a>
+59---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
 <br>
-60---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+60---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hocer effect</a>
 <br>
-61---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
+61---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+<br>
+62---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
