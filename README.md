@@ -52,3 +52,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/falling%20arrow%20effect/">falling arrow effect</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/folder%20open%20effect/">folder open effect</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/ghost%20text%20animation/">ghost text animation</a>
