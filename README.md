@@ -50,3 +50,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/exploring%20hover%20effects%20with%20line%20animation/">exploring hover effects with line animation</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/falling%20arrow%20effect/">falling arrow effect</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/folder%20open%20effect/">folder open effect</a>
