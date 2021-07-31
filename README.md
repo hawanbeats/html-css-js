@@ -22,3 +22,5 @@
 <a href="https://hawanbeats.github.io/html-css-js/button%20hover%20border%20animations/">button hover border animations</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/button%20hover%20effect/">button hover effect</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/card%20animated/">card animated</a>
