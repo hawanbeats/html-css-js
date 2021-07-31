@@ -90,3 +90,5 @@
 45---><a href="https://hawanbeats.github.io/html-css-js/shining%20text%20animation%20effects/">shining animation effects</a>
 <br>
 46---><a href="https://hawanbeats.github.io/html-css-js/show%20hide%20password%20field/">show hide password field</a>
+<br>
+47---><a href="https://hawanbeats.github.io/html-css-js/sidebar%20menu%20scroll%20progress%20indicator/">sidebar menu scroll progress indicator</a>
