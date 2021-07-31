@@ -94,3 +94,5 @@
 47---><a href="https://hawanbeats.github.io/html-css-js/sidebar%20menu%20scroll%20progress%20indicator/">sidebar menu scroll progress indicator</a>
 <br>
 48---><a href="https://hawanbeats.github.io/html-css-js/simple%20input%20text%20box/">simple input text box</a>
+<br>
+49---><a href="https://hawanbeats.github.io/html-css-js/simple%20login%20form%20gradient%20background/">simple login form gradient background</a>
