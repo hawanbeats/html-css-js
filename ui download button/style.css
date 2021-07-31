@@ -1,0 +1,350 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,400&display=swap");
+:root {
+  --canvasBG: rgba(230,238,249,.65);
+  --darkC: #333333;
+  --lightC: #ffffff;
+  --salmonC: #ff8c69;
+  --coralC: ff696c;
+  --blueC: #1462ff;
+  --lightBlueC: #eff4ff;
+  --lightGreyC: #f0f1f5;
+  --border-r: 12px;
+  --SVGc: rgba(146, 156, 208,.8);
+  --shadowC: rgba(83,119,192,.4);
+  --shadowDef: 0 3px 20px -3px var(--shadowC);
+  --shadowDefAlt: 0 6px 30px -10px var(--shadowC);
+}
+
+.btn, .buttons, .buttons-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--canvasBG);
+  height: 100vh;
+  font-family: "Nunito", "Lato", Arial, Sans-Serif;
+  color: var(--textC);
+}
+
+button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+#dribbble {
+  position: fixed;
+  display: block;
+  right: 70px;
+  bottom: 16px;
+}
+#dribbble svg {
+  display: block;
+  width: 76px;
+  height: 24px;
+  fill: var(--SVGc);
+}
+
+#twitter {
+  position: fixed;
+  display: block;
+  right: 25px;
+  bottom: 11px;
+}
+#twitter svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--SVGc);
+}
+
+#hicon {
+  position: fixed;
+  display: block;
+  left: 25px;
+  bottom: -42px;
+}
+#hicon svg {
+  width: 78px;
+  height: 78px;
+  fill: var(--SVGc);
+}
+
+:root {
+  --sz: 55px;
+  --purpleC: #a914ff;
+  --pinkC: #dd74f7;
+  --t: 299ms;
+  --l-spd: cubic-bezier(1,.01,.59,.92);
+  --c-spd: cubic-bezier(.86,.17,.91,.72);
+  --fbC: #9cbcff;
+  --f-sz: 20px;
+}
+
+.button-container {
+  width: calc(var(--sz)*4);
+  height: calc(var(--sz)*1);
+  background: transparent;
+  position: relative;
+  border-radius: 12px;
+}
+
+.cover {
+  border-radius: 12px;
+  width: calc(var(--sz)*4);
+  height: calc(var(--sz)*1);
+  background: transparent;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  display: none;
+}
+
+.on {
+  display: inline-block;
+}
+
+.buttons-wrap {
+  flex-direction: column;
+  width: calc(var(--sz)*4);
+  height: calc(var(--sz)*1);
+  background: transparent;
+  border-radius: 12px;
+  box-shadow: 0 8px 22px -6px var(--shadowC);
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+.buttons-wrap > * {
+  font-size: 1.25em;
+  color: #ffffff;
+}
+
+.buttons {
+  flex-direction: column-reverse;
+  width: calc(var(--sz)*4);
+  height: calc(var(--sz)*4);
+  position: absolute;
+  opacity: 1;
+  transform: translateY(calc(var(--sz) * -1.5));
+  transition: transform 0 ease;
+  cursor: pointer;
+}
+
+.btn {
+  width: calc(var(--sz)*4);
+  height: var(--sz);
+  position: relative;
+  margin: 0;
+}
+.btn > * {
+  margin: 0 5px;
+}
+
+.btn-1 {
+  background: var(--blueC);
+  transition: background calc(var(--t) / 1) ease;
+}
+.btn-1:hover {
+  background: #9b89f5;
+  transition: background calc(var(--t) / 1) ease;
+}
+
+.btn-2 {
+  background: #8a74fc;
+}
+
+.btn-3 {
+  background: #82dfa2;
+  box-sizing: border-box;
+  padding-top: 1px;
+}
+.btn-3 .svg {
+  margin-top: 5px;
+}
+
+.svg {
+  fill: transparent;
+  transform: scale(1.03);
+}
+.svg path {
+  stroke: #ffffff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+.svg circle {
+  stroke: #ffffff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+
+.circle {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  transform: scaleX(-1) translateX(-100%);
+}
+
+.check {
+  transform: scaleX(-1) translateX(-100%);
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+}
+
+.d2 {
+  transform: translateY(calc(var(--sz) * -0.5));
+  transition: transform var(--t) ease;
+}
+
+.d3 {
+  transform: translateY(calc(var(--sz) * 0.5 + -.5px));
+  transition: transform var(--t) ease;
+}
+
+.d4 {
+  transform: translateY(calc(var(--sz) * 1.5));
+  transition: transform var(--t) ease;
+}
+
+.d2 .btn-1 {
+  transition-delay: calc(var(--t) / 1);
+  background: #9b89f5;
+}
+
+.btn-2:before {
+  content: "";
+  width: calc(var(--sz)*0);
+  height: 5px;
+  background: #ff87ff;
+  position: absolute;
+  border-radius: 0 10px 10px 0;
+  bottom: 0;
+  left: 0;
+  transition: width var(--t) ease var(--t);
+}
+
+.d2 .btn-2:before {
+  width: calc(var(--sz)*4);
+  transition: width calc(var(--t)*6) var(--l-spd) 199ms;
+}
+
+.d2 .svg .arrow {
+  animation: down calc(var(--t)*3) cubic-bezier(0, 0.65, 0.32, 0.99) infinite;
+}
+
+.d3 .svg .circle,
+.d4 .svg .circle {
+  animation: stroke calc(var(--t) * 3) var(--c-spd) forwards calc(var(--t) * 1.5);
+}
+
+.d3 .svg .check,
+.d4 .svg .check {
+  animation: stroke calc(var(--t) * 4) var(--c-spd) forwards;
+}
+
+@keyframes down {
+  0%, 100% {
+    transform: translateY(-11px);
+  }
+  25% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(0px);
+  }
+  99% {
+    opacity: 0;
+  }
+}
+@keyframes stroke {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.feedback-wv-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(var(--f-sz)*2);
+  height: calc(var(--f-sz)*2);
+  border: 2px solid transparent;
+  border-radius: 50%;
+  position: relative;
+}
+
+.feedback {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(var(--f-sz)* 3);
+  height: calc(var(--f-sz)* 3);
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 6;
+  cursor: pointer;
+}
+
+.feedback-wv-1 {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+.fb-wv-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  position: relative;
+  opacity: 1;
+}
+
+@keyframes fb1 {
+  0% {
+    opacity: 0.8;
+    width: 0;
+    height: 0;
+    border: 1px solid var(--fbC);
+  }
+  25% {
+    opacity: 0.8;
+    width: 0;
+    height: 0;
+    border: 20px solid var(--fbC);
+  }
+  50% {
+    opacity: 1;
+    border: 1px solid var(--fbC);
+  }
+  60% {
+    width: 40px;
+    height: 40px;
+  }
+  70% {
+    opacity: 0.8;
+    width: 40px;
+    height: 40px;
+    border: 1px solid var(--fbC);
+  }
+  75%, 100% {
+    opacity: 0;
+    border: 1px solid var(--fbC);
+  }
+}
+.fb-wv-1-a {
+  animation: fb1 599ms ease forwards;
+}
