@@ -80,3 +80,5 @@
 40---><a href="https://hawanbeats.github.io/html-css-js/realistic%20red%20switch%20pure%20css/">realistic red switch pure css</a>
 <br>
 41---><a href="https://hawanbeats.github.io/html-css-js/responsive%20box%20model%20design/">responsive box model design</a>
+<br>
+42---><a href="https://hawanbeats.github.io/html-css-js/sass%20button%20border%20hover%20effect/">sass button border hover effect</a>
