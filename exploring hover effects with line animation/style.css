@@ -1,0 +1,95 @@
+:root {
+  --body-bg-color: #1a1c1d;
+  --text-color: #aaaebc;
+  --hr-color: #26292a;
+  --red: #e74c3c;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  margin: 30px 0;
+  font: 22px sans-serif;
+  background: var(--body-bg-color);
+  color: var(--text-color);
+}
+
+hr {
+  border-color: var(--hr-color);
+  margin: 20px 0;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+.menu li {
+  margin-right: 70px;
+}
+
+.menu a {
+  position: relative;
+  display: block;
+  padding: 5px;
+}
+
+.menu a::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(to right, #b47dcd, #e878a2, #eb85ab);
+  z-index: 1;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.5s ease-in-out;
+}
+
+.menu a:hover::before {
+  transform: scaleX(1);
+}
+
+
+/* ANIMATIONS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.menu[data-animation="to-left"] a::before {
+  transform-origin: right;
+}
+
+.menu[data-animation="center"] a::before {
+  transform-origin: center;
+}
+
+.menu[data-animation="bonus"] a::before {
+  transform-origin: right;
+}
+
+.menu[data-animation="bonus"] a:hover::before {
+  transform-origin: left;
+  transform: scaleX(1);
+  transition-timing-function: cubic-bezier(0.2, 1, 0.82, 0.94);
+}
+
+
+/* FOOTER
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.page-footer {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 1rem;
+}
+
+.page-footer span {
+  color: var(--red);
+}
