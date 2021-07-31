@@ -78,3 +78,5 @@
 39---><a href="https://hawanbeats.github.io/html-css-js/product%20slider%20like%20flipcart/">product slider like flipcart</a>
 <br>
 40---><a href="https://hawanbeats.github.io/html-css-js/realistic%20red%20switch%20pure%20css/">realistic red switch pure css</a>
+<br>
+41---><a href="https://hawanbeats.github.io/html-css-js/responsive%20box%20model%20design/">responsive box model design</a>
