@@ -1,0 +1,170 @@
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: #530491;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+.search {
+  position: relative;
+  overflow: hidden;
+  height: 88px;
+}
+.search.active::before {
+  top: 14px;
+  bottom: 14px;
+  opacity: 0;
+}
+.search.active path {
+  stroke-dashoffset: -400;
+}
+.search.active p {
+  pointer-events: all;
+}
+.search.active p::before, .search.active p::after {
+  opacity: 1;
+}
+.search.active span {
+  transform: scale(0);
+  opacity: 0;
+}
+.search.active.remove::before {
+  transition: all 200ms linear 200ms, opacity 0ms linear 0ms;
+  top: 88px;
+  bottom: 2px;
+  opacity: 1;
+}
+.search.active.remove p::before, .search.active.remove p::after {
+  transition: all 0ms;
+  opacity: 0;
+}
+.search.active.remove path {
+  stroke-dashoffset: -800;
+  transition-delay: 400ms;
+}
+.search.active.remove span {
+  transform: scale(1);
+  opacity: 1;
+  transition-delay: 400ms;
+}
+.search.active.remove.done::before {
+  top: 0;
+  bottom: 88px;
+  opacity: 1;
+  transition: none;
+}
+.search.active.remove.done path {
+  stroke-dashoffset: 0;
+  stroke-dasharray: 400;
+  transition: none;
+}
+.search::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-1px);
+  width: 4px;
+  background: #ff4365;
+  bottom: 88px;
+  border-radius: 50px;
+  opacity: 1;
+  transition: all 400ms ease-in-out 500ms, opacity 200ms linear 1000ms;
+}
+.search path {
+  stroke-dashoffset: 0;
+  stroke-dasharray: 400;
+  transition: all 500ms ease-in-out;
+}
+.search span {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  height: 80px;
+  line-height: 80px;
+  width: 100%;
+  margin-top: -40px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 34px;
+  letter-spacing: 2px;
+  color: #ff4365;
+  pointer-events: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  transition: all 400ms ease-in-out;
+  opacity: 1;
+  transform: scale(1);
+  text-transform: uppercase;
+}
+.search input,
+.search p {
+  position: absolute;
+  top: 50%;
+  left: -9px;
+  height: 80px;
+  line-height: 80px;
+  width: 100%;
+  margin-top: -40px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 40px;
+}
+.search input {
+  color: transparent;
+  background-color: transparent;
+  border: 0;
+  outline: none;
+}
+.search p {
+  color: #ff4365;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.search p:after, .search p:before {
+  content: "";
+  opacity: 0;
+  width: 4px;
+  height: 60px;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-top: 8px;
+  transition: all 0.2s ease-in-out;
+  transition-delay: 1000ms;
+  display: inline-block;
+}
+.search p:after {
+  position: relative;
+  bottom: 8px;
+  left: 8px;
+  background: #ff4365;
+  -webkit-animation: blinky 450ms linear infinite alternate;
+          animation: blinky 450ms linear infinite alternate;
+}
+
+@-webkit-keyframes blinky {
+  0% {
+    background: transparent;
+  }
+  100% {
+    background: #ff4365;
+  }
+}
+
+@keyframes blinky {
+  0% {
+    background: transparent;
+  }
+  100% {
+    background: #ff4365;
+  }
+}
