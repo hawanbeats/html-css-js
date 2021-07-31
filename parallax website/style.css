@@ -1,0 +1,135 @@
+body, html{
+    height: 100%;
+    margin:0;
+    font-weight: bold;
+    line-height:1.8em;
+    scroll-behavior: smooth;
+}
+.links{
+    display:flex;
+    flex-wrap: wrap;
+}
+a{
+    padding: 30px;
+    color:#FFBF69;
+}
+.a:link{
+    text-decoration: none;
+}
+.a:hover{
+    text-decoration: none;
+}
+.a1:hover{
+   background-color: #2A9D8F;
+   color:#03045E; 
+}
+.a2:hover{
+    background-color: #E9C46A;
+    color:#03045E;   
+}
+.a3:hover{
+    background-color:#F4A261;
+    color:#03045E;  
+}
+.a4:hover{
+    background-color:#E76F51;
+    color:#03045E;  
+}
+.text1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-family:"Valorant", "lato", sans-serif;
+    font-size: 300%;
+    position: absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    word-spacing:10px;
+    line-height:50px;
+}
+span{
+    color:#F77F00;
+}
+p{
+    color:#264653;
+    padding:20px;
+}
+section{
+    text-align: center;
+    padding:10px;
+    font-family: 'Amatic SC', cursive;
+}
+.section1{
+    background-color:#2A9D8F;
+}
+.section2{
+    background-color:#E9C46A;
+}
+.section3{
+    background-color:#F4A261;
+}
+.section4{
+    background-color:#E76F51;
+}
+.section1 h2{
+    color:#264653;
+}
+.section2 h2{
+    color:#264653;
+}
+.section3 h2{
+    color:#264653;
+}
+.section4 h2{
+    color:#264653;
+}
+.section1 p{
+    color:#264653;
+}
+.section2 p{
+    color:#264653;
+}
+.section3 p{
+    color:#264653;
+}
+.section4 p{
+    color:#264653;
+}
+.img{
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    opacity:0.80;
+}
+.img1{
+    background-image: url(./images/img1.jpg);
+    min-height: 100%;
+}
+.img2{
+    background-image: url(./images/img2.jpg);
+    min-height: 100%;
+}
+.img3{
+    background-image: url(./images/img3.jpg);
+    min-height: 100%;
+}
+.img4{
+    background-image: url(./images/img4.jpg);
+    min-height: 100%;
+}
+.img5{
+    background-image: url(./images/img5.jpg);
+    min-height: 100%;
+}
+.flex-container{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    left :0;
+    text-align:center;
+    background-color:rgba(0, 0, 0, 0.5);
+    padding:25px;
+}
