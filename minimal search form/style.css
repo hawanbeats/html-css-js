@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+*:before, *:after {
+  box-sizing: border-box;
+}
+
+.search {
+  position: relative;
+}
+.search .search-input {
+  background: none;
+  border: 0.15rem solid #fff;
+  border-radius: 3.0625rem;
+  height: 3.0625rem;
+  width: 3.0625rem;
+  color: #fff;
+  padding: 0.5rem 1.3rem 0.6rem;
+  font-family: "Questrial";
+  letter-spacing: 0.03rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.search .search-input:focus {
+  outline: 0;
+}
+.search .cross {
+  position: absolute;
+  top: 10px;
+  right: 1rem;
+  cursor: pointer;
+  width: 27px;
+  height: 27px;
+  transform: translateX(31px) translateY(27px);
+  transition: all 0.3s 0.3s ease;
+}
+.search .cross:before, .search .cross:after {
+  content: "";
+  display: block;
+  background: white;
+  position: absolute;
+  width: 0.15rem;
+  height: 1.7rem;
+  transition: all 0.3s ease;
+  left: 0.8125rem;
+}
+.search .cross:before {
+  transform: rotate(-45deg);
+}
+.search .cross:after {
+  transform: rotate(-45deg);
+}
+.search.opened .search-input {
+  width: 20rem;
+  transition-delay: 0.6s;
+  cursor: text;
+}
+.search.opened .cross {
+  transform: translateX(5px) translateY(1px);
+  transition-delay: 0s;
+}
+.search.opened .cross:before {
+  transition-delay: 0.3s;
+  transform: rotate(45deg);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  min-height: 100vh;
+  background: #1d2125;
+}
+body .social-media {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  opacity: 0.85;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  font-size: 1.25rem;
+}
+body .social-media a {
+  display: inline-block;
+  color: #fff;
+}
+body .social-media a:not(:last-of-type) {
+  margin-right: 0.5rem;
+}
+body .social-media:hover {
+  opacity: 1;
+}
