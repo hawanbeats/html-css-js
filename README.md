@@ -86,3 +86,5 @@
 43---><a href="https://hawanbeats.github.io/html-css-js/search%20interaction%20border%20animation/">search interaction border animation</a>
 <br>
 44---><a href="https://hawanbeats.github.io/html-css-js/shake%20effect/">shake effect</a>
+<br>
+45---><a href="https://hawanbeats.github.io/html-css-js/shining%20text%20animation%20effects/">shining animation effects</a>
