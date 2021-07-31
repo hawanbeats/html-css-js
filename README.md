@@ -116,3 +116,5 @@
 58---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hocer effect</a>
 <br>
 59---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+<br>
+60---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
