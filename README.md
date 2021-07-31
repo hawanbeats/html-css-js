@@ -76,3 +76,5 @@
 38---><a href="https://hawanbeats.github.io/html-css-js/price%20table%20user%20interface%20design/">price table user interface design</a>
 <br>
 39---><a href="https://hawanbeats.github.io/html-css-js/product%20slider%20like%20flipcart/">product slider like flipcart</a>
+<br>
+40---><a href="https://hawanbeats.github.io/html-css-js/realistic%20red%20switch%20pure%20css/">realistic red switch pure css</a>
