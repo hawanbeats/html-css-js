@@ -60,3 +60,5 @@
 30---><a href="https://hawanbeats.github.io/html-css-js/glowing%20gradient%20button%20effects%20on%20hover/">glowing gradient button effects hover</a>
 <br>
 31---><a href="https://hawanbeats.github.io/html-css-js/hover%20show%20password/">hover show password</a>
+<br>
+32---><a href="https://hawanbeats.github.io/html-css-js/input%20field%20gradient%20border%20focus%20fun/">input field gradient border focus fun</a>
