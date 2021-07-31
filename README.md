@@ -82,3 +82,5 @@
 41---><a href="https://hawanbeats.github.io/html-css-js/responsive%20box%20model%20design/">responsive box model design</a>
 <br>
 42---><a href="https://hawanbeats.github.io/html-css-js/sass%20button%20border%20hover%20effect/">sass button border hover effect</a>
+<br>
+43---><a href="https://hawanbeats.github.io/html-css-js/search%20interaction%20border%20animation/">search interaction border animation</a>
