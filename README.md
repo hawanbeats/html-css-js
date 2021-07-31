@@ -84,3 +84,5 @@
 42---><a href="https://hawanbeats.github.io/html-css-js/sass%20button%20border%20hover%20effect/">sass button border hover effect</a>
 <br>
 43---><a href="https://hawanbeats.github.io/html-css-js/search%20interaction%20border%20animation/">search interaction border animation</a>
+<br>
+<a href="https://hawanbeats.github.io/html-css-js/shake%20effect/">shake effect</a>
