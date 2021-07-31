@@ -64,3 +64,7 @@
 32---><a href="https://hawanbeats.github.io/html-css-js/input%20field%20gradient%20border%20focus%20fun/">input field gradient border focus fun</a>
 <br>
 33---><a href="https://hawanbeats.github.io/html-css-js/notification%20button%20ui%20design/">notification button ui design</a>
+<br>
+34---><a href="https://hawanbeats.github.io/html-css-js/parallax%20effect/>parallax effect</a>
+<br>
+35---><a href="https://hawanbeats.github.io/html-css-js/parallax%20website/">parallax website</a>
