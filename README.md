@@ -1,9 +1,9 @@
 # html-css-js
+<a href="https://hawanbeats.github.io/html-css-js/19%20simple%20spinner%20collections/">19 simple spinner collections</a>
+<br>
 <a href="https://hawanbeats.github.io/html-css-js/3d%20responsive%20touch%20slider/">3d responsive touch slider</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/3d%20social%20media%20icon%20hover%20effects/">3d social media icon hover effects</a>
-<br>
-<a href="https://hawanbeats.github.io/html-css-js/19%20simple%20spinner%20collections/">19 simple spinner collections</a>
 <br>
 <a href="https://hawanbeats.github.io/html-css-js/analog%20clock%20shape%20loading/">analog clock shape loading</a>
 <br>
