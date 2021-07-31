@@ -65,6 +65,6 @@
 <br>
 33---><a href="https://hawanbeats.github.io/html-css-js/notification%20button%20ui%20design/">notification button ui design</a>
 <br>
-34---><a href="https://hawanbeats.github.io/html-css-js/parallax%20effect/>parallax effect</a>
+34---><a href="https://hawanbeats.github.io/html-css-js/parallax%20effect/">parallax effect</a>
 <br>
 35---><a href="https://hawanbeats.github.io/html-css-js/parallax%20website/">parallax website</a>
