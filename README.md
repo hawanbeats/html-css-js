@@ -142,3 +142,5 @@
 71---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
 <br>
 72---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
+<br>
+73---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
