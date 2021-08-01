@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Volume Control (SVG+JS animation)</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="speaker" >
+    <svg viewBox="0 0 100 77" xmlns="http://www.w3.org/2000/svg">
+        <path id="speakB" class="volElem" stroke="#9E7818" d="M51.2,18.5v-13c0-2.1-2.5-3.3-4.1-1.9L21.8,25.9c-1.4,1.2-3.1,1.9-4.9,1.9H8.2c-2.3,0-4.2,1.9-4.2,4.2v13.3c0,2.3,1.9,4.2,4.2,4.2H17c1.9,0,3.7,0.7,5.1,1.9l25,22c1.6,1.4,4.1,0.3,4.1-1.9v-13" opacity="0.4"/>
+        <path id="speakF" class="volElem" stroke="#F4AF0A" d="M51.2,18.5v-13c0-2.1-2.5-3.3-4.1-1.9L21.8,25.9c-1.4,1.2-3.1,1.9-4.9,1.9H8.2c-2.3,0-4.2,1.9-4.2,4.2v13.3c0,2.3,1.9,4.2,4.2,4.2H17c1.9,0,3.7,0.7,5.1,1.9l25,22c1.6,1.4,4.1,0.3,4.1-1.9v-13"/>
+        <path id="arcBigB" class="volElem" stroke="#9E7818" d="M72.2,64.1C81.1,59,87,49.4,87,38.5c0-10.9-5.9-20.5-14.8-25.6" opacity="0.4"/>
+        <path id="arcBigF" class="volElem" stroke="#F4AF0A" d="M72.2,64.1C81.1,59,87,49.4,87,38.5c0-10.9-5.9-20.5-14.8-25.6"/>
+        <path id="arcSmB" class="volElem" stroke="#9E7818" d="M59,51.3c4.4-2.6,7.4-7.4,7.4-12.8s-3-10.3-7.4-12.8" opacity="0.4" />
+        <path id="arcSmF" class="volElem" stroke="#F4AF0A" d="M59,51.3c4.4-2.6,7.4-7.4,7.4-12.8s-3-10.3-7.4-12.8"/>
+        <line id="crossLtRb" class="volElem" opacity="0.6" stroke="#CE9610" x1="43.8" y1="29.2" x2="62.6" y2="47.8" transform="scale(0)" />
+        <line id="crossLbRt" class="volElem" opacity="0.6" stroke="#CE9610" x1="62.6" y1="29.2" x2="43.8" y2="47.8" transform="scale(0)" />
+    </svg>
+</div>
+
+<div class=""></div>
+
+<div class="vlCtrl">
+    <svg viewBox="0 0 280 27" xmlns="http://www.w3.org/2000/svg">
+        <line id="ctrlLineB" class="volElem" stroke="#9E7818" x1="13" y1="13.5" x2="261.2" y2="13.5" opacity="0.3"/>
+        <line id="ctrlLineF" class="volElem" stroke="#F4AF0A" x1="13" y1="13.5" x2="261.2" y2="13.5"/>
+        <circle id="ctrlCirce" cx="261.2" cy="13.5" r="13" fill="#F4AF0A"/>
+    </svg>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
