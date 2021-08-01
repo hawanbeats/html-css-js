@@ -134,3 +134,5 @@
 67---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
 <br>
 68---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
+<br>
+69---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
