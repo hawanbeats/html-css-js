@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Webcam Capture Demo</title>
+    <script src="2-stream.js"></script>
+    <script src="3-snapshot.js"></script>
+    <script src="4-download.js"></script>
+    <script src="5-upload.js"></script>
+  </head>
+  <body>
+    <!-- (A) "LIVE STREAM" WEBCAM HERE -->
+    <video id="vid-live" autoplay></video>
+
+    <!-- (B) TEST BUTTONS -->
+    <div>
+      <!-- (B1) TAKE A SNAPSHOT -->
+      <input id="vid-take" type="button" value="Snapshot"/>
+
+      <!-- (B2) FORCE DOWNLOAD -->
+      <input id="vid-down" type="button" value="Download"/>
+
+      <!-- (B3) UPLOAD TO SERVER -->
+      <input id="vid-up" type="button" value="Upload"/>
+    </div>
+
+    <!-- (C) RESULTS -->
+    <div id="vid-result"></div>
+  </body>
+</html>
