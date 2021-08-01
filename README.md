@@ -129,20 +129,22 @@
 <br>
 65---><a href="https://hawanbeats.github.io/html-css-js/the%20handbook%20download%20animation/">the handbook download animation</a>
 <br>
-66---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
+66---><a href="https://hawanbeats.github.io/html-css-js/toggles/">toggles</a>
 <br>
-67---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
+67---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
 <br>
-68---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
+68---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
 <br>
-69---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hover effect</a>
+69---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
 <br>
-70---><a href="https://hawanbeats.github.io/html-css-js/ui%20download%20button/">ui download button</a>
+70---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hover effect</a>
 <br>
-71---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+71---><a href="https://hawanbeats.github.io/html-css-js/ui%20download%20button/">ui download button</a>
 <br>
-72---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
+72---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
 <br>
-73---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
+73---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
 <br>
-74---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
+74---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
+<br>
+75---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
