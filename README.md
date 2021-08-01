@@ -147,4 +147,6 @@
 <br>
 74---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
 <br>
-75---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
+75---><a href="https://hawanbeats.github.io/html-css-js/webcam%20js/">webcam js</a>
+<br>
+76---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
