@@ -152,3 +152,5 @@
 76---><a href="https://hawanbeats.github.io/html-css-js/webcam%20js/">webcam js</a>
 <br>
 77---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
+<br>
+78---><a href="https://hawanbeats.github.io/html-css-js/world%20clocks/">world clocks</a>
