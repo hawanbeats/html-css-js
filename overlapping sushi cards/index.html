@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Overlapping Sushi Cards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap" rel="stylesheet"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div>
+  <!-- these radio buttons hold state of which card is in front and which toggle button is visible -->
+  <input type="radio" name="sushi-lunch" id="happy-radio">
+  <input type="radio" name="sushi-lunch" id="lovers-radio" checked>
+
+  <div class="selector">
+    <label for="happy-radio" class="happy-card">
+      <h1>Happy Sushi Lunch</h1>
+      <ul>
+        <li>California Roll</li>
+        <li>2 Pieces Salmon Nigiri</li>
+        <li>Sea Salt Edamame</li>
+        <li>Miso Soup</li>
+      </ul>
+      <p>$12</p>
+    </label>
+
+    <label for="lovers-radio" class="lovers-card">
+      <h1>Sushi Lover's Lunch</h1>
+      <ul>
+        <li>Spicy Tuna Roll</li>
+        <li>Shrimp Tempura Roll</li>
+        <li>4 Pieces Asssorted Nigiri</li>
+        <li>Wonton Soup</li>
+      </ul>
+      <p>$18</p>
+    </label>
+    
+    <label for="happy-radio" class="happy-pick">Switch to Happy Sushi Lunch!</label>
+    <label for="lovers-radio" class="lovers-pick">Switch to Sushi Lover's Lunch!</label>
+  </div>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
