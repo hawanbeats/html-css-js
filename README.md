@@ -145,46 +145,48 @@
 <br>
 73---><a href="https://hawanbeats.github.io/html-css-js/social%20swatchbook/">social swatchbook</a>
 <br>
-74---><a href="https://hawanbeats.github.io/html-css-js/stacking%20cards%20final%20version/">stacking cards final version</a>
+74---><a href="https://hawanbeats.github.io/html-css-js/stacked%20fancyfeed/">stacked fancyfeed</a>
 <br>
-75---><a href="https://hawanbeats.github.io/html-css-js/style%20lists%20with%20css%20hover%20effect/">style lists with css hover effect</a>
+75---><a href="https://hawanbeats.github.io/html-css-js/stacking%20cards%20final%20version/">stacking cards final version</a>
+<br>
+76---><a href="https://hawanbeats.github.io/html-css-js/style%20lists%20with%20css%20hover%20effect/">style lists with css hover effect</a>
 <br> 
-76---><a href="https://hawanbeats.github.io/html-css-js/subscription%20button%20with%20regex/">subscription button with regex</a>
+77---><a href="https://hawanbeats.github.io/html-css-js/subscription%20button%20with%20regex/">subscription button with regex</a>
 <br>
-77---><a href="https://hawanbeats.github.io/html-css-js/svg%20loading%20icons/">svg loading icons</a>
+78---><a href="https://hawanbeats.github.io/html-css-js/svg%20loading%20icons/">svg loading icons</a>
 <br>
-78---><a href="https://hawanbeats.github.io/html-css-js/t%20shirt%20cannon%20button/">t shirt cannon button</a>
+79---><a href="https://hawanbeats.github.io/html-css-js/t%20shirt%20cannon%20button/">t shirt cannon button</a>
 <br>
-79---><a href="https://hawanbeats.github.io/html-css-js/tab%20menu%20overlay/">tab menu overlay</a>
+80---><a href="https://hawanbeats.github.io/html-css-js/tab%20menu%20overlay/">tab menu overlay</a>
 <br>
-80---><a href="https://hawanbeats.github.io/html-css-js/thank%20you%20card/">thank you card</a>
+81---><a href="https://hawanbeats.github.io/html-css-js/thank%20you%20card/">thank you card</a>
 <br>
-81---><a href="https://hawanbeats.github.io/html-css-js/the%20handbook%20download%20animation/">the handbook download animation</a>
+82---><a href="https://hawanbeats.github.io/html-css-js/the%20handbook%20download%20animation/">the handbook download animation</a>
 <br>
-82---><a href="https://hawanbeats.github.io/html-css-js/toggles/">toggles</a>
+83---><a href="https://hawanbeats.github.io/html-css-js/toggles/">toggles</a>
 <br>
-83---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
+84---><a href="https://hawanbeats.github.io/html-css-js/tooltip%20with%20social%20sharing/">tooltip with social sharing</a>
 <br>
-84---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
+85---><a href="https://hawanbeats.github.io/html-css-js/transforming%20page%20movement%20navigation/">transforming page movement navigation</a>
 <br>
-85---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
+86---><a href="https://hawanbeats.github.io/html-css-js/transforming%20social%20media%20list%20toggle%20icon/">transforming social media list toggle icon</a>
 <br>
-86---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hover effect</a>
+87---><a href="https://hawanbeats.github.io/html-css-js/ui%20button%20hover%20effect/">ui button hover effect</a>
 <br>
-87---><a href="https://hawanbeats.github.io/html-css-js/ui%20design%20product/">ui design product</a>
+88---><a href="https://hawanbeats.github.io/html-css-js/ui%20design%20product/">ui design product</a>
 <br>
-88---><a href="https://hawanbeats.github.io/html-css-js/ui%20download%20button/">ui download button</a>
+89---><a href="https://hawanbeats.github.io/html-css-js/ui%20download%20button/">ui download button</a>
 <br>
-89---><a href="https://hawanbeats.github.io/html-css-js/ui%20gradient%20banner%20cards/">ui gradient banner cards</a>
+90---><a href="https://hawanbeats.github.io/html-css-js/ui%20gradient%20banner%20cards/">ui gradient banner cards</a>
 <br>
-90---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+91---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
 <br>
-91---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
+92---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
 <br>
-92---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
+93---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
 <br>
-93---><a href="https://hawanbeats.github.io/html-css-js/webcam%20js/">webcam js</a>
+94---><a href="https://hawanbeats.github.io/html-css-js/webcam%20js/">webcam js</a>
 <br>
-94---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
+95---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
 <br>
-95---><a href="https://hawanbeats.github.io/html-css-js/world%20clocks/">world clocks</a>
+96---><a href="https://hawanbeats.github.io/html-css-js/world%20clocks/">world clocks</a>
