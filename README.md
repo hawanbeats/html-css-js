@@ -227,14 +227,10 @@
 <br>
 114---><a href="https://hawanbeats.github.io/html-css-js/ui%20gradient%20banner%20cards/">ui gradient banner cards</a>
 <br>
-115---><a href="https://hawanbeats.github.io/html-css-js/volume%20toggle%20css%20switch/">volume toggle css switch</a>
+115---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
 <br>
-116---><a href="https://hawanbeats.github.io/html-css-js/upload%20button%20animation/">upload button animation</a>
+116---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
 <br>
-117---><a href="https://hawanbeats.github.io/html-css-js/volume%20control%20animation/">volume control animation</a>
+117---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
 <br>
-118---><a href="https://hawanbeats.github.io/html-css-js/webcam%20js/">webcam js</a>
-<br>
-119---><a href="https://hawanbeats.github.io/html-css-js/wifi%20loader%20animation/">wifi loader animation</a>
-<br>
-120---><a href="https://hawanbeats.github.io/html-css-js/world%20clocks/">world clocks</a>
+118---><a href="https://hawanbeats.github.io/html-css-js/world%20clocks/">world clocks</a>
